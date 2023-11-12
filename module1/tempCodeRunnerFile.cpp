@@ -1,0 +1,1 @@
+    // std::cout << "my favourite number is " << a;
